@@ -1,0 +1,12 @@
+mavos-dashboard/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── ModuleCard.jsx
+│   │   ├── ChatPanel.jsx
+│   │   ├── KPICards.jsx
+│   │   └── Layout.jsx
+│   ├── App.jsx
+│   └── index.js
+├── tailwind.config.js
+└── package.json
